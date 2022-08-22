@@ -1,10 +1,10 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Timothy  
-# Welcome to TimmysWorld 
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to TimmysWorld 
 
 
 ## I'm a Veteran, Father, and Developer !!
+ - 👨🏿‍ Timothy Singeleton 
  - 🔭 Currently looking for Work 
- - 🌽 Interested in Full Stack Development, UX/UI design, 
+ - 🌽 Interested in Full Stack Development and UX/UI design
  - 🌱 Currently studying with Coding Dojo
  - 👯 I’m looking to collaborate with other content creators
  - 🥅 2022 Goals: Complete this Bootcamp and enter into any role as a software developer
@@ -26,12 +26,8 @@
 [<img align="left" alt="PHP" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
-
-
-
-
 ---
-#### Connect with me:
+# Connect with me:
 
 [![website](./img/globe-light.svg)](https://timothysingleton.com)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/timothy-singleton/)
