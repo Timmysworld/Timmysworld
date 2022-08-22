@@ -25,9 +25,8 @@
 <img align="left" alt="MySQL" width="65px" src="/img/mysql-6.svg" style="padding-right:10px;"/>
 <img align="left" alt="PHP" width="65px" src="/img/php-1.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="65px" src="/img/git-icon.svg" style="padding-right:10px;"/>
-
----
-
+<br>
+<br>
 # Connect with me:
 
 [![website](./img/globe-light.svg)](https://timothysingleton.com)
