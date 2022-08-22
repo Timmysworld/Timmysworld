@@ -18,8 +18,8 @@
 <img alt="JavaScript" width="65px" src="/img/javascript-1.svg" style="padding-right:10px;"/>
 <img alt="Python" width="65px" src="img/python-5.svg" style="padding-right:10px;"/>
 <img alt="React" width="65px" src="img/react-2.svg" style="padding-right:10px;"/>
-<img alt="Nodejs" width="65px" src="/img/nodejs-1.svg.svg" style="padding-right:10px;"/>
-<img alt="MongoDb" width="65px" src="img/monogodb-icon-1.svg" style="padding-right:10px;"/>
+<img alt="Nodejs" width="65px" src="/img/nodejs-1.svg" style="padding-right:10px;"/>
+<img alt="MongoDb" width="65px" src="img/mongodb-icon-1.svg" style="padding-right:10px;"/>
 <img alt="Expressjs" width="65px" src="img/express-109.svg" style="padding-right:10px;"/>
 <img alt="Java" width="65px" src="img/java-14.svg" style="padding-right:10px;"/>
 <img alt="MySQL" width="65px" src="/img/mysql-6.svg" style="padding-right:10px;"/>
