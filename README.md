@@ -30,11 +30,7 @@
 
 
 ---
-<<<<<<< HEAD
 # Connect with me:
-=======
-### Connect with me:
->>>>>>> 0807b1e (testing img)
 
 [![website](./img/globe-light.svg)](https://timothysingleton.com)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/timothy-singleton/)
