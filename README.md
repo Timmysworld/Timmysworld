@@ -26,14 +26,6 @@
 <img align="left" alt="PHP" width="65px" src="/img/php-1.svg"/>
 <img alt="Git" width="65px" src="/img/git-icon.svg"/>
 
----
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Timmysworld's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Timmysworld&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-
 
 
 
