@@ -23,7 +23,7 @@
 <img align="left" alt="React" width="65px" src="img/react-2.svg"/>
 <img align="left" alt="Nodejs" width="65px" src="/img/nodejs-1.svg"/>
 <img align="left" alt="MySQL" width="65px" src="/img/mysql-6.svg"/>
-<img align="left" alt="PHP" width="65px" src="/img/php-1.svg"/>
+<img align="right" alt="PHP" width="65px" src="/img/php-1.svg"/>
 <img alt="Git" width="65px" src="/img/git-icon.svg"/>
 
 
