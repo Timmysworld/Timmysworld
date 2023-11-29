@@ -5,10 +5,10 @@
  - 👨🏿‍ Timothy Singeleton 
  - 🔭 Currently looking for Work 
  - 🌽 Interested in Full Stack Development and UX/UI design
- - 🌱 Currently studying with Coding Dojo
+ - 🌱 
  - 👯 I’m looking to collaborate with other content creators
- - 🥅 2022 Goals: Complete this Bootcamp and enter into any role as a software developer
- - ⚡ Fun fact: I'm a Firefighter 
+ - 🥅 2024 Goals: Achieve a full time Software Engineer Position
+ - ⚡ Fun fact: 
 
 ---
 ### 🧰 Toolbox:
